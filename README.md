@@ -8,9 +8,27 @@
 ### 👨‍💻 Acerca de mi :
 
 - 🌱 Acabo de terminar un bootcamp Full Stack y estoy aprendiendo Phyton 
-- 📫 Te puedes contactar conmingo por medio de Linkedin 
+- 📫 Te puedes contactar conmingo por medio de Linkedin [https://www.linkedin.com/in/margarita-alvarez-gonz%C3%A1lez/](https://www.linkedin.com/in/margarita-alvarez-gonz%C3%A1lez/)
 - 🙋‍♀️ Además de programar, me encanta la Arqueología y la Aromaterapia 
 - 🌐 Entra a mi porfolio [https://aromaterapiaparati.org/margarita-alvarez/](https://aromaterapiaparati.org/margarita-alvarez/)
 
+<div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;        
+     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp; 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title=csharp alt="csharp" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Taildwind" **alt="Taildwind" width="40" height="40"/>
+      </div>
+</div>
 
+---
 
