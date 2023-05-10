@@ -7,8 +7,8 @@
 
 Acerca de mi:
 
-- 🌱 Actualmente sigo formandome como desarrolladora Full-Stack
+- 🌱 Acabo de terminar un bootcamp Full Stack y estoy aprendiendo Phyton
 - 📫 Te puedes contactar conmingo por medio de Linkedin
-- ⚡ Además de programar, me encanta la Arqueología y la aromaterapia
+- ⚡ Entra a mi porfolio bit.ly/44l7HGv
 
 
