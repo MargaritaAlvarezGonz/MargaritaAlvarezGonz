@@ -9,7 +9,7 @@
 
 - 🌱 Acabo de terminar un bootcamp Full Stack y estoy aprendiendo Phyton 
 - 📫 Te puedes contactar conmingo por medio de Linkedin 
-- 🌐 Entra a mi porfolio [bit.ly/44l7HGv] (bit.ly/44l7HGv)
+- 🌐 Entra a mi porfolio 
 
 
 
