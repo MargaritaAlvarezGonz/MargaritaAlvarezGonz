@@ -7,7 +7,7 @@
 
 ### 👨‍💻 Acerca de mi :
 
-- 🌱 Acabo de terminar un bootcamp Full Stack y estoy aprendiendo Phyton 
+- 🌱 Acabo de terminar un bootcamp Full Stack 
 - 📫 Te puedes contactar conmingo por medio de Linkedin [https://www.linkedin.com/in/margarita-alvarez-gonz%C3%A1lez/](https://www.linkedin.com/in/margarita-alvarez-gonz%C3%A1lez/)
 - 🙋‍♀️ Además de programar, me encanta la Arqueología y la Aromaterapia 
 - 🌐 Entra a mi porfolio [https://aromaterapiaparati.org/margarita-alvarez/](https://aromaterapiaparati.org/margarita-alvarez/)
