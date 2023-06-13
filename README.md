@@ -1,5 +1,5 @@
 <div id="header" aling="center">
-    <img src= "https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
+    <img src= "https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>    
     <h1 aling="center">Hola, te doy la bienvenida a mi perfil 😀</h1>
     <h3>Soy Junior Full-Stack Developer y me apasiona la creación de sitios web atractivos y eficientes.  He aprendido varios lenguajes de programación y a manejar diversas herramientas. Me gusta trabajar en equipo, aprender cosas nuevas y doy mi máximo en cada momento. </h3>
 </div>    
@@ -26,8 +26,20 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Taildwind" **alt="Taildwind" width="40" height="40"/>&nbsp;
-      </div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" **alt="Angular" width="40" height="40"/>&nbsp;
+        
+     
 </div>
+
+---
+
+### 📊My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MargaritaAlvarezGonz&theme=dark)](https://git.io/streak-stats)<br>
+![MargaritaAlvarezGonz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MargaritaAlvarezGonz&show_icons=true&theme=dracula)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MargaritaAlvarezGonz&layout=donut-vertical)](https://github.com/MargaritaAlvarezGonz/github-readme-stats)
+
 
 ---
 
