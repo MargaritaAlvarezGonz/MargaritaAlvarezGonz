@@ -22,8 +22,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;        
      <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title=csharp alt="csharp" width="40" height="40"/>&nbsp;       
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title=csharp alt="csharp" width="40" height="40"/>&nbsp;    
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Taildwind" **alt="Taildwind" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>&nbsp;
